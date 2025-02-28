@@ -2,4 +2,4 @@
 
 <p align=center><img src="https://ps.w.org/live-story-short-code/assets/icon-128x128.png?rev=3136463" width="150"</p>
 
-![](https://komarev.com/ghpvc/?username=LSLuca&label=📈+You+are+visitor+number&color=green)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&section=footer&fontSize=20&fontAlign=50&fontColor=000000)
